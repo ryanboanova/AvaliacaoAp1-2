@@ -1,0 +1,8 @@
+Criei uma pasta na minha area de trabalho, abri ela com o GIT BASH
+criei um repositório dentro da pasta (git init), e logo em seguida criei um arquivo com o nome "ap1" (mkdir ap1
+depois de abri o arquivo (cd ap1), assim, criando um arquivo de texto logo em seguida (touch ap1.txt)..
+criei outro repositório, logo adicionei o arquivo de texto a ele, etiquetando-o de "meu primeiro trabalho" (git commit -m "meu primeiro trabalho
+Sincronizei o repositório local com o repositório  remoto (git remote add origin "https://github.com/ryanboanova/AvaliacaoAp1-2.git"
+Expliquei oque fiz em cada processo do git bash, salvei o arquivo, logo em seguida
+Enviei o arquivo de texto para o repositório remoto (push --set-upstream origin master)
+
